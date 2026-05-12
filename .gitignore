@@ -1,8 +1,9 @@
 .idea
+.vscode
 out
 *.iml
 /server/*
 /index.htm
 /indexmp.htm
 
-src/.DS_Store
+.DS_Store
